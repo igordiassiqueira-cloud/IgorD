@@ -37,7 +37,7 @@ class MainActivity : Activity() {
 
     companion object {
         // >>> Altere aqui se o endereço do sistema mudar <<<
-        const val START_URL = "https://mda-guias-pro.base44.app/login"
+        const val START_URL = "https://remix-mda-especialidades-9542.ai.studio/"
 
         private const val REQ_FILE = 1001
         private const val REQ_STORAGE = 1002
